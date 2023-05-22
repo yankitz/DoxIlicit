@@ -13,7 +13,7 @@ Este repositorio contiene un script de Python para buscar y obtener información
 
 ## Uso
 1. Clonar el repositorio
-2. Asegúrate de tener todas las dependencias instaladas (listadas en el archivo `requirements.txt`).
+2. Asegúrate de tener todas las dependencias instaladas (listadas en el archivo `requirements.txt`). `pip install -r requirements.txt`
 3. Ejecutar el script `dox2.py`.
 
 ## Dependencias
