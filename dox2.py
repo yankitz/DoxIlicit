@@ -1,12 +1,7 @@
 #Este código está estructurado en tres partes principales: la función main, y dos funciones para 
 #obtener información del usuario get_user_info_by_name y get_user_info_by_username,
 # y una función para procesar las peticiones get_info
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait #Espera explicita
-from selenium.webdriver.support import expected_conditions as EC #Espera explicita
+
 from time import sleep
 import random
 import requests
